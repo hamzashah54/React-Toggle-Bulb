@@ -19,10 +19,9 @@ The component is built using modern React features and is fully customizable. Yo
 2. **Customizable**: You can customize the appearance and behavior of the component by passing props or using CSS styles.
 3. **Fully Tested**: Toggle-Bulb is fully tested to ensure that it works correctly and is free of bugs.
 4. **Modern React Features**: Toggle-Bulb is built using modern React features, such as React Hooks and JSX.
-5. **Responsive**: Toggle-Bulb is responsive and works well on both desktop and mobile devices.
-6. **Accessible**: Toggle-Bulb is accessible and follows best practices for accessibility in React applications.
-7. **Lightweight**: Toggle-Bulb is lightweight and does not require any additional libraries or dependencies.
-8. **Extensible**: Toggle-Bulb is extensible and can be easily extended to add new features or behaviors.
+5. **Accessible**: Toggle-Bulb is accessible and follows best practices for accessibility in React applications.
+6. **Lightweight**: Toggle-Bulb is lightweight and does not require any additional libraries or dependencies.
+7. **Extensible**: Toggle-Bulb is extensible and can be easily extended to add new features or behaviors.
 
 **🧰 Tech Stack Table**
 -------------------------
@@ -64,25 +63,5 @@ To run the tests, follow these steps:
 1. Navigate to the project directory.
 2. Run `npm run test` to run the unit tests.
 3. Run `npm run test-integration` to run the integration tests.
-
-**📸 Screenshots**
-----------------
-
-[Insert screenshots of the application here]
-
-**📦 API Reference**
--------------------
-
-[Insert API reference documentation here]
-
-**👤 Author**
----------
-
-The author of this project is [Your Name].
-
-**📝 License**
----------
-
-This project is licensed under the MIT License.
 
 I hope this README file meets your expectations! Let me know if you have any questions or need further assistance.
